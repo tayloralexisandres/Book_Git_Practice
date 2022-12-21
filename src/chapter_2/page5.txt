@@ -6,7 +6,7 @@ for example- there is a flow we must follow
 2.local repository
 -commit step do not forget to comment --- color --blue
 3.push
-- arrives in the remote repository
-4. Any changes can now be made as well as updated
+- arrives in the remote repository---------------------------color --white
+4. Any changes can now be made as well as updated----------------color will be blue again
 -make changes you want - commit-dont forget to add comment
 -push - the remote repository is now updated
