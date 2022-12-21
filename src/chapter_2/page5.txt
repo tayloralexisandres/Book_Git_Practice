@@ -1,0 +1,12 @@
+In this chapter we will discuss Git and its benefits
+
+for example- there is a flow we must follow
+1.working directory --- color - red
+- add step
+2.local repository
+-commit step do not forget to comment --- color --blue
+3.push
+- arrives in the remote repository
+4. Any changes can now be made as well as updated
+-make changes you want - commit-dont forget to add comment
+-push - the remote repository is now updated
