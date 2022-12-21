@@ -1,0 +1,3 @@
+Hi friend I figured I would add this file 
+to create the flow from remote to local repository
+so you will be able to edit this page 7 in you intellj
